@@ -1,0 +1,9 @@
+D:\Theos_WebApi\Aula02_2018\Aula02\Aula02.Domain\bin\Debug\netstandard2.0\Aula02.Domain.deps.json
+D:\Theos_WebApi\Aula02_2018\Aula02\Aula02.Domain\bin\Debug\netstandard2.0\Aula02.Domain.dll
+D:\Theos_WebApi\Aula02_2018\Aula02\Aula02.Domain\bin\Debug\netstandard2.0\Aula02.Domain.pdb
+D:\Theos_WebApi\Aula02_2018\Aula02\Aula02.Domain\obj\Debug\netstandard2.0\Aula02.Domain.csprojResolveAssemblyReference.cache
+D:\Theos_WebApi\Aula02_2018\Aula02\Aula02.Domain\obj\Debug\netstandard2.0\Aula02.Domain.csproj.CoreCompileInputs.cache
+D:\Theos_WebApi\Aula02_2018\Aula02\Aula02.Domain\obj\Debug\netstandard2.0\Aula02.Domain.AssemblyInfoInputs.cache
+D:\Theos_WebApi\Aula02_2018\Aula02\Aula02.Domain\obj\Debug\netstandard2.0\Aula02.Domain.AssemblyInfo.cs
+D:\Theos_WebApi\Aula02_2018\Aula02\Aula02.Domain\obj\Debug\netstandard2.0\Aula02.Domain.dll
+D:\Theos_WebApi\Aula02_2018\Aula02\Aula02.Domain\obj\Debug\netstandard2.0\Aula02.Domain.pdb
